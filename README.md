@@ -4,7 +4,7 @@
 <div align="center">
 
 ## ☕ Keofi – Coffee Website  
-A warm and elegant **Coffee Shop Website UI** built with HTML, CSS, and JavaScript.  
+A warm and elegant **Coffee Shop Website UI** built with HTML, CSS, and JS.  
 Crafted to represent coffee brands, cafés, and roasteries with a rich, inviting, and modern layout that captures the aroma of quality coffee.
 
 </div>
