@@ -20,7 +20,6 @@ Crafted to represent coffee brands, cafés, and roasteries with a rich, inviting
 It highlights coffee blends, brewing techniques, café ambience, and product stories through a minimalist yet cozy user interface.  
 Perfect for **coffee shops, baristas, or eCommerce platforms** selling coffee beans, accessories, or café merchandise.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -41,7 +40,6 @@ Perfect for **coffee shops, baristas, or eCommerce platforms** selling coffee be
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
